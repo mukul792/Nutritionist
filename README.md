@@ -5,6 +5,12 @@ The app combines **image understanding** with **nutrition-focused prompting** to
 
 ---
 
+![Alt text](Nutritionist/1.png)
+![Alt text](Nutritionist/2.png)
+
+
+---
+
 ## 🚀 Features
 
 - Upload food images (JPG, PNG, JPEG)  
